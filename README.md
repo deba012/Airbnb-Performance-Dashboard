@@ -74,7 +74,7 @@ To provide a comprehensive view of Airbnb’s performance by analyzing trends, c
 ## 📸 Preview
 
 ### 🔹 Overview Page
-
+https://github.com/deba012/Airbnb-Performance-Dashboard/blob/main/Overview.png
 
 ### 🔹 City Analysis Page
 ![City Analysis](./images/city_analysis.png)
