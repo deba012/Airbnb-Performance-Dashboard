@@ -42,10 +42,10 @@ To provide a comprehensive view of Airbnb’s performance by analyzing trends, c
 - **Overview Page**  
   Shows Airbnb lifecycle (Growth → Decline → COVID impact) and listing trends  
 
-- **City Analysis Page**  
+- **Ratings Page**  
   Pareto analysis, pricing comparison, and ratings insights  
 
-- **User Behavior Page**  
+- **Review Page**  
   Reviewer segmentation, trust analysis, and seasonality trends  
 
 ---
@@ -74,13 +74,14 @@ To provide a comprehensive view of Airbnb’s performance by analyzing trends, c
 ## 📸 Preview
 
 ### 🔹 Overview Page
-https://github.com/deba012/Airbnb-Performance-Dashboard/blob/main/Overview.png
+![Overview](https://github.com/deba012/Airbnb-Performance-Dashboard/blob/main/Overview.png?raw=true)
 
-### 🔹 City Analysis Page
-![City Analysis](./images/city_analysis.png)
+### 🔹 Ratings Page
+![City Analysis](https://github.com/deba012/Airbnb-Performance-Dashboard/blob/main/images/Ratings.png?raw=true)
+![City Analysis](https://github.com/deba012/Airbnb-Performance-Dashboard/blob/main/images/Ratings2.png?raw=true)
 
-### 🔹 User Behavior Page
-![User Behavior](./images/user_behavior.png)
+### 🔹 Review Page
+![Review Page](https://github.com/deba012/Airbnb-Performance-Dashboard/blob/main/Review.png?raw=true)
 
 ---
 
