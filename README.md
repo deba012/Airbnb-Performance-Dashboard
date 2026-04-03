@@ -74,14 +74,14 @@ To provide a comprehensive view of Airbnb’s performance by analyzing trends, c
 ## 📸 Preview
 
 ### 🔹 Overview Page
-![Overview](https://github.com/deba012/Airbnb-Performance-Dashboard/blob/main/Overview.png?raw=true)
+![Overview](https://github.com/deba012/Airbnb-Performance-Dashboard/blob/main/images/Overview.png?raw=true)
 
 ### 🔹 Ratings Page
 ![Ratings](https://github.com/deba012/Airbnb-Performance-Dashboard/blob/main/images/Ratings.png?raw=true)
 ![Ratings](https://github.com/deba012/Airbnb-Performance-Dashboard/blob/main/images/Ratings2.png?raw=true)
 
 ### 🔹 Review Page
-![Review Page](https://github.com/deba012/Airbnb-Performance-Dashboard/blob/main/Review.png?raw=true)
+![Review Page](https://github.com/deba012/Airbnb-Performance-Dashboard/blob/main/images/Review.png?raw=true)
 
 ---
 
