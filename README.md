@@ -77,8 +77,8 @@ To provide a comprehensive view of Airbnb’s performance by analyzing trends, c
 ![Overview](https://github.com/deba012/Airbnb-Performance-Dashboard/blob/main/Overview.png?raw=true)
 
 ### 🔹 Ratings Page
-![City Analysis](https://github.com/deba012/Airbnb-Performance-Dashboard/blob/main/images/Ratings.png?raw=true)
-![City Analysis](https://github.com/deba012/Airbnb-Performance-Dashboard/blob/main/images/Ratings2.png?raw=true)
+![Ratings](https://github.com/deba012/Airbnb-Performance-Dashboard/blob/main/images/Ratings.png?raw=true)
+![Ratings](https://github.com/deba012/Airbnb-Performance-Dashboard/blob/main/images/Ratings2.png?raw=true)
 
 ### 🔹 Review Page
 ![Review Page](https://github.com/deba012/Airbnb-Performance-Dashboard/blob/main/Review.png?raw=true)
